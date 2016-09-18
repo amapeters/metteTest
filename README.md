@@ -1,2 +1,2 @@
 # metteTest
-training
+a training repository for testing github features
